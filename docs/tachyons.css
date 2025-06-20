@@ -1755,7 +1755,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
 /* Measure is limited to ~66 characters */
 .measure { max-width: 30em; }
 /* Measure is limited to ~80 characters */
-.measure-wide { max-width: 34em; }
+.measure-wide { max-width: 40em; }
 /* Measure is limited to ~45 characters */
 .measure-narrow { max-width: 20em; }
 /* Book paragraph style - paragraphs are indented with no vertical spacing. */
@@ -2443,7 +2443,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f6-ns { font-size: .875rem; }
  .f7-ns { font-size: .75rem; }
  .measure-ns { max-width: 30em; }
- .measure-wide-ns { max-width: 34em; }
+ .measure-wide-ns { max-width: 40em; }
  .measure-narrow-ns { max-width: 20em; }
  .indent-ns { text-indent: 1em; margin-top: 0; margin-bottom: 0; }
  .small-caps-ns { font-variant: small-caps; }
@@ -2869,7 +2869,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f6-m { font-size: .875rem; }
  .f7-m { font-size: .75rem; }
  .measure-m { max-width: 30em; }
- .measure-wide-m { max-width: 34em; }
+ .measure-wide-m { max-width: 40em; }
  .measure-narrow-m { max-width: 20em; }
  .indent-m { text-indent: 1em; margin-top: 0; margin-bottom: 0; }
  .small-caps-m { font-variant: small-caps; }
@@ -3295,7 +3295,7 @@ code, .code { font-family: Consolas, monaco, monospace; }
  .f6-l { font-size: .875rem; }
  .f7-l { font-size: .75rem; }
  .measure-l { max-width: 30em; }
- .measure-wide-l { max-width: 34em; }
+ .measure-wide-l { max-width: 40em; }
  .measure-narrow-l { max-width: 20em; }
  .indent-l { text-indent: 1em; margin-top: 0; margin-bottom: 0; }
  .small-caps-l { font-variant: small-caps; }
